@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://nims.co.ke/sitemap.xml
+Sitemap: https://nims.co.ke/turkwel-hydroelectric-power-station/sitemap.xml
