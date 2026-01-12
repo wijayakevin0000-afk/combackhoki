@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://messmarine.com.tr/hizmetlerimiz/sitemap.xml
+Sitemap: https://www.sanemaltayli.com/basinda/sitemap.xml
