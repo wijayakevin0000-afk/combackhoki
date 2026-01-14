@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.stnicolasdupelem.fr/decheterie/sitemap.xml
+Sitemap: https://www.akgulmobilya.com.tr/urunlerimiz/sitemap.xml
