@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.akgulmobilya.com.tr/urunlerimiz/sitemap.xml
+Sitemap: https://pozitifayaklar.com/medya/sitemap.xml
