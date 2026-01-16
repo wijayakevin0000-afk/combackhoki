@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://citydoner.com.tr/blog/sitemap.xml
+Sitemap: https://ilfersoylev.com/iletisim/sitemap.xml
