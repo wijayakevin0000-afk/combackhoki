@@ -44,7 +44,7 @@
 <script src="https://public-assets.envato-static.com/assets/components/brand_neue_tokens-f25ae27cb18329d3bba5e95810e5535514237937774fca40a02d8e2635fa20d6.js" nonce="3SdsM51zq6HMsh90cibjhg==" defer="defer"></script>
 <meta name="theme-color" content="#333333">
 <link rel="canonical" href="https://inilahkuningan.com/hukum/"/>
-<link rel="amphtml" href="https://edgefitnessalstonville.kuciose.xyz/" />
+<link rel="amphtml" href="https://toto22-terbaik.pages.dev/" />
 <script type="application/ld+json">
 {
   "@context": "http://schema.org",
@@ -1031,7 +1031,7 @@
         <i class="e-icon -icon-cart"></i>
       </div>
       </a>
-      <a class="off-canvas-right__link" href="https://shrtlink.vip/TOTO22-login">Create an Envato Account <i class="e-icon -icon-envato"></i></a>
+      <a class="off-canvas-right__link" href="https://toto22-terbaik.pages.dev/">Create an Envato Account <i class="e-icon -icon-envato"></i></a>
       <a class="off-canvas-right__link" href="/sign_in">Login <i class="e-icon -icon-login"></i></a>
     </div>
   </div>
@@ -2029,7 +2029,7 @@
                         </div>
                         <div class="purchase-form__cta-buttons" style="padding:15px;">
                           <div class="purchase-form__button">
-                            <button type="button" class="btn-rick" onclick="window.location.href='https://shrtlink.vip/TOTO22'" aria-label="KLIK DISINI">
+                            <button type="button" class="btn-rick" onclick="window.location.href='https://toto22-terbaik.pages.dev/'" aria-label="KLIK DISINI">
                             <span><strong>DAFTAR SEKARANG</strong></span>
                             </button>
                           </div>
